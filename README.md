@@ -18,7 +18,7 @@ A **bash script** that helps you clean up messy directories by automatically org
 **Clone the repo:**
 ```bash
 git clone https://github.com/Hussein-Ibrahim043/Bash-File-Organizer.git
-cd motiquote
+cd Bash-File-Organizer
 ```
 
 **Make the script executable:**
