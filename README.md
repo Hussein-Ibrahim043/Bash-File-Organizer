@@ -78,19 +78,12 @@ Create a file named `extensions.conf` in the same directory as the script with t
 
 ## 📸 Output Example
 
-```text
-🏡 Directory: Projects/
-⌛ Preparing to organize files...
+<img width="530" height="166" alt="image" src="https://github.com/user-attachments/assets/cc1e724e-08e6-434d-a0da-cf2d147cfaf8" />
+<img width="744" height="543" alt="image" src="https://github.com/user-attachments/assets/35d1f0a2-7f4c-4e69-9cde-b18813ca6e8f" />
+<img width="664" height="548" alt="image" src="https://github.com/user-attachments/assets/5e94d85f-ef7a-4e83-a5ed-ccf43718daa8" />
 
-[DRY RUN] Would move 'file1.txt' → Documents/
-[DRY RUN] Would move 'image1.jpg' → Images/
-⚠️ Skipped 'unknown.xyz' (unknown extension)
 
-🌟 Summary:
-📁 Files moved   : 0
-❓ Files skipped : 1
-📑 Log saved     : organizer.log
-```
+
 
 ---
 
@@ -102,14 +95,14 @@ Create a file named `extensions.conf` in the same directory as the script with t
 
 ---
 
-## 💪 Author
+##  Author
 
-GitHub (https://github.com/Hussein-Ibrahim043)
-LinkedIn (https://linkedin.com/in/hussein-ibrahim043)
+- GitHub (https://github.com/Hussein-Ibrahim043)
+- LinkedIn (https://linkedin.com/in/hussein-ibrahim043)
 
 ---
 
-## 💾 License
+## 📜 License
 
 This project is licensed under the MIT License. Feel free to use and modify!
 
